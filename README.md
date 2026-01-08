@@ -37,10 +37,17 @@ This project was built using standard HTML  & CSS (only);
 
 Google Fonts: Integrated Fredoka for a friendly feel.
 
-Resources
+Resources: 
+Excel file: 
+(https://docs.google.com/spreadsheets/d/1OMbWak7wRNltfLFMgmrhRiTOBmDu_9_t/edit?usp=sharing&ouid=107679182559516600715&rtpof=true&sd=true)
+
+Word Document (Project Report): 
+https://docs.google.com/presentation/d/1wH0ekOe3FiXeYTWvarS48A44NHd1FEiD/edit?usp=sharing&ouid=107679182559516600715&rtpof=true&sd=true
+
+Presentation: 
+https://docs.google.com/presentation/d/1wH0ekOe3FiXeYTWvarS48A44NHd1FEiD/edit?usp=sharing&ouid=107679182559516600715&rtpof=true&sd=true
 
 Designed with Excellence by: 5stars
-
 
 
 
